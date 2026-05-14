@@ -2,7 +2,7 @@
 
 ## 📖 Introducción
 
-Esta guía está diseñada específicamente para **agentes de IA** que trabajarán con archivos de subtítulos en formato **.ass**. El objetivo es establecer lineamientos claros para realizar traducciones al **español latino** manteniendo un enfoque **sin censura** y **bien adaptado**.
+Esta guía está diseñada específicamente para **agentes de IA** que trabajarán con archivos de subtítulos en formato **.ass**. El objetivo es establecer lineamientos claros para realizar traducciones de hentais o animes al **español latino** manteniendo un enfoque **sin censura** y **bien adaptado**.
 
 ---
 
